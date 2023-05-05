@@ -2,6 +2,10 @@
 ChatGPT提问技巧
 # 如何向 ChatGPT 提问以获得高质量答案：提示技巧工程完全指南
 
+[toc]
+
+https://promptperfect.jina.ai/prompts
+
 ## 介绍
 
 我很高兴欢迎您阅读我的最新书籍《The Art of Asking ChatGPT for High-Quality Answers: A complete Guide to Prompt Engineering Techniques》。本书是一本全面指南，介绍了各种提示技术，用于从ChatGPT中生成高质量的答案。
